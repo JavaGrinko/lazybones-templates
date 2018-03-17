@@ -1,0 +1,2 @@
+${pluginName}:
+  greeting-enable: ${pluginGreetingEnable}

@@ -1,0 +1,6 @@
+name: ${pluginName}
+version: ${pluginVersion}
+author: ${pluginAuthor}
+main: ${pkg}.Plugin
+description: ${pluginDescription}
+website: ${pluginWebsite}
